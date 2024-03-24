@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "node app.js"
+},
 {
 	"name": "section-26---blog-web-application",
 	"version": "1.0.0",
